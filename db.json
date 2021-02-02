@@ -1,0 +1,83 @@
+{
+  "bg": "https://revistadedesporto.files.wordpress.com/2015/09/skate.jpg",
+  "title": "Skater Quiz",
+  "description": "Teste seu conhecimento sobre o mundo do skateboarding",
+  "questions": [
+    {
+      "image": "https://tse2.mm.bing.net/th?id=OIP.Cz4YybyEdkz8hVYxrf1gnAHaEK&pid=Api&P=0&w=286&h=162",
+      "title": "Quem é este skatista?",      
+      "answer": 1,
+      "alternatives": [
+        "Luan De Oliveira",
+        "Stefan Janoski",
+        "Carlos Ribeiro",
+        "Nyja Huston"
+      ]
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/yqIKkvKD1eIXnpxeBA0a-2WR4g18Aw7VsCZ8fVFMoWwDgd1j5hg_3hJNQnNhbmTB914=w1264",
+      "title": "Qual foi o primeiro brasileiro a ganhar a Street League?",      
+      "answer": 3,
+      "alternatives": [
+        "Tiago Lemos",
+        "Gabriel Fortunato",
+        "Carlos Ribeiro",
+        "Luan De Oliveira"
+      ]
+    },
+    {
+      "image": "https://tse2.mm.bing.net/th?id=OIP.vMg9xwhL7pljLuAJVFEoewHaFs&pid=Api&P=0&w=225&h=174",
+      "title": "Qual o nome desta peça de skate",
+      "answer": 0,
+      "alternatives": [
+        "Truck",
+        "Rodas",
+        "Rolamentos",
+        "Shape"
+      ]
+    },
+    {
+      "image": "https://tse2.mm.bing.net/th?id=OIP.w5fmMc-7CSER6En8MKR_ZAHaE8&pid=Api&P=0&w=236&h=158",
+      "title": "Quem é este skatista?",
+      "answer": 2,
+      "alternatives": [
+        "Shane O`Neil",
+        "Nyja Huston",
+        "Torey Pudwill",
+        "Vinicius Torres"
+      ]
+    },
+    {
+      "image": "https://tse3.mm.bing.net/th?id=OIP.iL0uhpwFs0sn_EWaYWcm0AAAAA&pid=Api&P=0&w=300&h=300",
+      "title": "Quem foi o primeiro Brasileiro a ganhar o The Berrics?",
+      "answer": 2,
+      "alternatives": [
+        "Ademar Lucas",
+        "Sergio Santoro",
+        "Luan de Oliveira",
+        "Carlos Ribeiro"
+      ]
+    }
+  ],
+  
+  
+  "external": [
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/",
+    "https://imersao-react-next-js.nathanaquino.vercel.app/",
+    "https://animequiz.ffsf-filho.vercel.app",
+    "https://imersao-react-next-js.nathanaquino.vercel.app/"
+
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#004346",
+      "secondary": "#337f83",
+      "mainBg": "#006064",
+      "contrastText": "#FFFFFF",
+      "wrong": "#ef5350",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
